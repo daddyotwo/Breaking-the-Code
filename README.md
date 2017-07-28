@@ -1,2 +1,2 @@
 # Breaking-the-Code
-Very, very bad programming.
+Introduction to Computer Science and Programming in Python. Problem sets.
